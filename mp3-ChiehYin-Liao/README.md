@@ -1,5 +1,8 @@
 # OS mp3 Scheduling
+## Implementation
+* See [report.pdf](https://github.com/ChiehYin-Liao/NTU_OS_2021SPRING/tree/master/mp3-ChiehYin-Liao/README/r09922136_MP3_Implementation.pdf)
 
+## Problem Description
 [OS mp3 Scheduling](https://operatingsystemsatntu.github.io/OS-21-Spring-at-NTU/mp3.html)
 
 In this mp you will have to implement CPU scheduling with the algorithms below.
