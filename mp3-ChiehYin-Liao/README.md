@@ -4,41 +4,13 @@ In this mp you will have to implement CPU scheduling with the algorithms below.
 
 given processes
 
-Process
-
-CPU burst time
-
-Arrival Time
-
-P1
-
-6
-
-0
-
-P2
-
-3
-
-1
-
-P3
-
-8
-
-2
-
-P4
-
-3
-
-3
-
-P5
-
-4
-
-4
+| Process  | CPU burst time | Arrival Time |
+| -------- | -------- | -------- |
+| P1     | 6     | 0     |
+| P2     | 3     | 1     |
+| P3     | 8     | 2     |
+| P4     | 3     | 3     |
+| P5     | 4     | 4     |
 
 ### First Come First Served(FCFS):
 
