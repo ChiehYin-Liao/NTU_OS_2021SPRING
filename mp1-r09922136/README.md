@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-[MP2 - Shared Memory](https://operatingsystemsatntu.github.io/OS-21-Spring-at-NTU/mp1.html)
+[MP1 Thread Package](https://operatingsystemsatntu.github.io/OS-21-Spring-at-NTU/mp1.html)
 
 > This website focuses on details of programming homework. For handwriting part, please download the questions from NTU COOL and submit the answers via Gradescope.
 
