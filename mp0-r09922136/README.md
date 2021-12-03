@@ -24,13 +24,10 @@ However, VM runs a _full-blown_ **guest OS** with virtual access to **host** res
 
 By contrast, **container** runs a discrete **process**, taking no more memory than any other executable, making it lightweight. And **Docker** is a platform for you to build and run with containers.
 
-Virtual Machine
+| Virtual Machine  | Container |
+| -------- | -------- |
+| ![](https://docs.docker.com/images/VM%402x.png)     | ![](https://docs.docker.com/images/Container%402x.png)     |
 
-Container
-
-![](https://docs.docker.com/images/VM%402x.png)
-
-![](https://docs.docker.com/images/Container%402x.png)
 
 We also leverage the advantage of virtualization to _standardize_ the environment of your homework, making the problems independent from both architectures and OSes of your machines.
 
@@ -39,60 +36,18 @@ We also leverage the advantage of virtualization to _standardize_ the environmen
 Docker is available on **Windows**, **Mac** and a variety of **Linux** platforms. You can choose your preferred operating system below, and follow the instructions of installation guide.
 
 #### Docker Desktop
-
-Platform
-
-x86\_64 / amd64
-
-[Docker Desktop for Windows](https://docs.docker.com/docker-for-windows/install/)
-
-![check](https://docs.docker.com/images/green-check.svg)
-
-[Docker Desktop for Mac](https://docs.docker.com/docker-for-mac/install/)
-
-![check](https://docs.docker.com/images/green-check.svg)
+| Platform  | x86\_64 / amd64 |
+| -------- | -------- |
+| [Docker Desktop for Windows](https://docs.docker.com/docker-for-windows/install/)   | ![check](https://docs.docker.com/images/green-check.svg)   |
+| [Docker Desktop for Mac](https://docs.docker.com/docker-for-mac/install/)| ![check](https://docs.docker.com/images/green-check.svg) |
 
 #### Docker Engine
 
-Platform
-
-x86\_64 / amd64
-
-ARM
-
-ARM64 / AARCH64
-
-[Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
-
-![check](https://docs.docker.com/images/green-check.svg)
-
-![check](https://docs.docker.com/images/green-check.svg)
-
-![check](https://docs.docker.com/images/green-check.svg)
-
-[Debian](https://docs.docker.com/engine/install/debian/)
-
-![check](https://docs.docker.com/images/green-check.svg)
-
-![check](https://docs.docker.com/images/green-check.svg)
-
-![check](https://docs.docker.com/images/green-check.svg)
-
-[CentOS](https://docs.docker.com/engine/install/centos/)
-
-![check](https://docs.docker.com/images/green-check.svg)
-
- 
-
-![check](https://docs.docker.com/images/green-check.svg)
-
-[Fedora](https://docs.docker.com/engine/install/fedora/)
-
-![check](https://docs.docker.com/images/green-check.svg)
-
- 
-
-![check](https://docs.docker.com/images/green-check.svg)
+| Platform | x86\_64 / amd64 | ARM | ARM64 / AARCH64
+| [Ubuntu](https://docs.docker.com/engine/install/ubuntu/) | ![check](https://docs.docker.com/images/green-check.svg) | ![check](https://docs.docker.com/images/green-check.svg)  | ![check](https://docs.docker.com/images/green-check.svg)
+ | [Debian](https://docs.docker.com/engine/install/debian/) | ![check](https://docs.docker.com/images/green-check.svg) | ![check](https://docs.docker.com/images/green-check.svg) | ![check](https://docs.docker.com/images/green-check.svg)
+[CentOS](https://docs.docker.com/engine/install/centos/) | ![check](https://docs.docker.com/images/green-check.svg) |  | ![check](https://docs.docker.com/images/green-check.svg)
+ | [Fedora](https://docs.docker.com/engine/install/fedora/) | ![check](https://docs.docker.com/images/green-check.svg) |  | ![check](https://docs.docker.com/images/green-check.svg)
 
 Yet, we suggest you install Docker on **Linux** platforms, because Docker commands we provide in this and future MPs will be based on Linux platforms. We do not guarantee to answer Docker’s issues on other platforms. In addition, containers run _natively_ on Linux.
 
