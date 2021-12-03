@@ -44,6 +44,7 @@ Docker is available on **Windows**, **Mac** and a variety of **Linux** platforms
 #### Docker Engine
 
 | Platform | x86\_64 / amd64 | ARM | ARM64 / AARCH64
+| -------- | -------- | -------- | -------- |
 | [Ubuntu](https://docs.docker.com/engine/install/ubuntu/) | ![check](https://docs.docker.com/images/green-check.svg) | ![check](https://docs.docker.com/images/green-check.svg)  | ![check](https://docs.docker.com/images/green-check.svg)
  | [Debian](https://docs.docker.com/engine/install/debian/) | ![check](https://docs.docker.com/images/green-check.svg) | ![check](https://docs.docker.com/images/green-check.svg) | ![check](https://docs.docker.com/images/green-check.svg)
 [CentOS](https://docs.docker.com/engine/install/centos/) | ![check](https://docs.docker.com/images/green-check.svg) |  | ![check](https://docs.docker.com/images/green-check.svg)
@@ -110,7 +111,9 @@ You should see some informational messages.
 
 **xv6** is implemented in **ANSI C** for a multi-core **RISC-V** system, but most of our machines are not RISC-V system. Therefore, we need **QEMU** to help us launching **xv6** on non-RSIC-V architecture. QEMU is an emulator and virtualizer that can perform hardware virtualization.
 
-![](https://i.imgur.com/2kwmFIt.png) ![](https://i.imgur.com/ZxGIw6m.png)
+| ![](https://i.imgur.com/2kwmFIt.png)| ![](https://i.imgur.com/ZxGIw6m.png) |
+|--|--|
+
 
 An instruction set architecture (ISA) is an abstract model of a computer, also referred to as computer architecture. The ISA serves as the interface between software and hardware. [Learn more](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
