@@ -1,5 +1,7 @@
 # OS mp3 Scheduling
 
+![OS mp3 Scheduling](https://operatingsystemsatntu.github.io/OS-21-Spring-at-NTU/mp3.html)
+
 In this mp you will have to implement CPU scheduling with the algorithms below.
 
 given processes
