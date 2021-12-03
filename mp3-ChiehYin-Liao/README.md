@@ -195,29 +195,11 @@ thread id 1 exec 45 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (15 ticks)
-
-0
-
-2
-
-3 time slot (15 ticks)
-
-0
-
-3
-
-3 time slot (15 ticks)
-
-0
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (15 ticks)     | 0     |
+| 2     | 3 time slot (15 ticks)     | 0     |
+| 3     | 3 time slot (15 ticks)     | 0     |
 
 ![](https://i.imgur.com/iqSh20L.png)
 
@@ -232,29 +214,11 @@ thread id 3 exec 45 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (15 ticks)
-
-0
-
-2
-
-3 time slot (15 ticks)
-
-0
-
-3
-
-3 time slot (15 ticks)
-
-0
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (15 ticks)     | 0     |
+| 2     | 3 time slot (15 ticks)     | 0     |
+| 3     | 3 time slot (15 ticks)     | 0     |
 
 ![](https://i.imgur.com/7nux2F3.png)
 
@@ -269,29 +233,11 @@ thread id 1 exec 45 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (15 ticks)
-
-0
-
-2
-
-3 time slot (15 ticks)
-
-0
-
-3
-
-3 time slot (15 ticks)
-
-0
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (15 ticks)     | 0     |
+| 2     | 3 time slot (15 ticks)     | 0     |
+| 3     | 3 time slot (15 ticks)     | 0     |
 
 ![](https://i.imgur.com/fQqvHbh.png)
 
@@ -306,29 +252,11 @@ thread id 3 exec 45 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (15 ticks)
-
-0
-
-2
-
-3 time slot (15 ticks)
-
-0
-
-3
-
-3 time slot (15 ticks)
-
-0
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (15 ticks)     | 0     |
+| 2     | 3 time slot (15 ticks)     | 0     |
+| 3     | 3 time slot (15 ticks)     | 0     |
 
 ![](https://i.imgur.com/7TUHhKW.png)
 
@@ -343,29 +271,11 @@ thread id 3 exec 45 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (15 ticks)
-
-0
-
-2
-
-3 time slot (15 ticks)
-
-0
-
-3
-
-3 time slot (15 ticks)
-
-0
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (15 ticks)     | 0     |
+| 2     | 3 time slot (15 ticks)     | 0     |
+| 3     | 3 time slot (15 ticks)     | 0     |
 
 ![](https://i.imgur.com/usrPntG.png)
 
@@ -387,29 +297,11 @@ thread id 3 exec 38 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (15 ticks)
-
-0
-
-2
-
-3 time slot (15 ticks)
-
-0
-
-3
-
-3 time slot (15 ticks)
-
-7
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (15 ticks)     | 0     |
+| 2     | 3 time slot (15 ticks)     | 0     |
+| 3     | 3 time slot (15 ticks)     | 7     |
 
 ![](https://i.imgur.com/ACbIGLY.png)
 
@@ -424,29 +316,11 @@ thread id 3 exec 38 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (15 ticks)
-
-0
-
-2
-
-3 time slot (15 ticks)
-
-0
-
-3
-
-3 time slot (15 ticks)
-
-7
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (15 ticks)     | 0     |
+| 2     | 3 time slot (15 ticks)     | 0     |
+| 3     | 3 time slot (15 ticks)     | 7     |
 
 ![](https://i.imgur.com/mwUzoK5.png)
 
@@ -467,23 +341,11 @@ maximum execution time
 
 arrival time
 
-1
-
-3 time slot (15 ticks)
-
-0
-
-2
-
-3 time slot (15 ticks)
-
-0
-
-3
-
-3 time slot (15 ticks)
-
-17
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (15 ticks)     | 0     |
+| 2     | 3 time slot (15 ticks)     | 0     |
+| 3     | 3 time slot (15 ticks)     | 17     |
 
 ![](https://i.imgur.com/HHtqaqy.png)
 
@@ -498,29 +360,11 @@ thread id 3 exec 38 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (15 ticks)
-
-0
-
-2
-
-3 time slot (15 ticks)
-
-0
-
-3
-
-3 time slot (15 ticks)
-
-7
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (15 ticks)     | 0     |
+| 2     | 3 time slot (15 ticks)     | 0     |
+| 3     | 3 time slot (15 ticks)     | 7     |
 
 ![](https://i.imgur.com/6fLUnP7.png)
 
@@ -535,29 +379,11 @@ thread id 3 exec 38 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (15 ticks)
-
-0
-
-2
-
-3 time slot (15 ticks)
-
-0
-
-3
-
-3 time slot (15 ticks)
-
-7
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (15 ticks)     | 0     |
+| 2     | 3 time slot (15 ticks)     | 0     |
+| 3     | 3 time slot (15 ticks)     | 7     |
 
 ![](https://i.imgur.com/25UWCEs.png)
 
@@ -578,29 +404,11 @@ thread id 2 exec 24 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (9 ticks)
-
-0
-
-2
-
-4 time slot (12 ticks)
-
-0
-
-3
-
-1 time slot (3 ticks)
-
-2
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (9 ticks)     | 0     |
+| 2     | 4 time slot (12 ticks)     | 0     |
+| 3     | 1 time slot (3 ticks)     | 2     |
 
 ![](https://i.imgur.com/bO4Lstj.png)
 
@@ -614,30 +422,11 @@ thread id 3 exec 22 ticks
 
 exited
 ```
-
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (9 ticks)
-
-0
-
-2
-
-4 time slot (12 ticks)
-
-0
-
-3
-
-1 time slot (3 ticks)
-
-2
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (9 ticks)     | 0     |
+| 2     | 4 time slot (12 ticks)     | 0     |
+| 3     | 1 time slot (3 ticks)     | 2     |
 
 ![](https://i.imgur.com/cXOkMHn.png)
 
@@ -652,29 +441,11 @@ thread id 2 exec 24 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (9 ticks)
-
-0
-
-2
-
-4 time slot (12 ticks)
-
-0
-
-3
-
-1 time slot (3 ticks)
-
-2
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (9 ticks)     | 0     |
+| 2     | 4 time slot (12 ticks)     | 0     |
+| 3     | 1 time slot (3 ticks)     | 2     |
 
 ![](https://i.imgur.com/6qKr5qn.png)
 
@@ -689,29 +460,11 @@ thread id 2 exec 24 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (9 ticks)
-
-0
-
-2
-
-4 time slot (12 ticks)
-
-0
-
-3
-
-1 time slot (3 ticks)
-
-2
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (9 ticks)     | 0     |
+| 2     | 4 time slot (12 ticks)     | 0     |
+| 3     | 1 time slot (3 ticks)     | 2     |
 
 ![](https://i.imgur.com/iI2IyjB.png)
 
@@ -726,29 +479,11 @@ thread id 2 exec 24 ticks
 exited
 ```
 
-ID
-
-maximum execution time
-
-arrival time
-
-1
-
-3 time slot (9 ticks)
-
-0
-
-2
-
-4 time slot (12 ticks)
-
-0
-
-3
-
-1 time slot (3 ticks)
-
-2
+| ID  | maximum execution time | arrival time |
+| -------- | -------- | -------- |
+| 1     | 3 time slot (9 ticks)     | 0     |
+| 2     | 4 time slot (12 ticks)     | 0     |
+| 3     | 1 time slot (3 ticks)     | 2     |
 
 ![](https://i.imgur.com/SWr23bM.png)
 
@@ -799,14 +534,3 @@ When we test your implementation
 2.  In order to add some test files, we will use the our Makefile. Therefore, you shouldn’t remove or add files in `kernel` and `user`.
 3.  You should check that you can compile successfully with original Makefile.
 
-1.  Finish the **coding part** before 5/18 23:59, and it should be a correct solution. No early bird bonus for an incorrect answer.
-2.  We’ll announce the grade in 1 day. You can submit again after we grade the early bird.
-3.  We will choose the higher one, if you submit for early bird and normal deadline.
-
-#### 5/13 17:00~18:00
-
-#### 5/18 17:00~18:00
-
-#### 5/20 17:00~18:00
-
-#### 資工540
